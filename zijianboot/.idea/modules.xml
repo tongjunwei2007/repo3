@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/bootcloud/bootcloud.iml" filepath="$PROJECT_DIR$/bootcloud/bootcloud.iml" />
-      <module fileurl="file://$PROJECT_DIR$/zijianboot.iml" filepath="$PROJECT_DIR$/zijianboot.iml" />
-    </modules>
-  </component>
-</project>
