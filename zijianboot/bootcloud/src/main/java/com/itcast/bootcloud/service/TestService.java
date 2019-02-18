@@ -9,6 +9,7 @@ public class TestService {
     @Autowired
     Daoreposetory daoreposetory;
     public String returnString(){
+        System.out.println("sdf");
         String byid = daoreposetory.findByid("1");
         return byid;
     }
